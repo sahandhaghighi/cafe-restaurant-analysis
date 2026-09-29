@@ -95,9 +95,9 @@ there is no sign guests walked away from the higher prices.
 **Four dishes punch above their weight.** They take a share of revenue well above their share
 of items sold.
 
-**The menu is far more concentrated than the owner thought.** 14.6% of it brings in half the
-revenue. Eighty-six items split the last 19.8% between them, and twelve food items sell fewer
-than three a month.
+**The menu is far more concentrated than the owner thought.** 14.6% of it brings in half the revenue.
+Eighty-six items split the last 19.8% between them. Twelve menu lines sell fewer than three a month, 
+and only four of those are food — the rest is bar stock, which keeps.
 
 **Staff cost is the real constraint.** Wages including all employer charges run far above the
 sector norm. Once staff and rent are paid, a third of net revenue is left for purchasing,
